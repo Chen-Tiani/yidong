@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkyidong"]=self["webpackChunkyidong"]||[]).push([[668],{7668:function(n,u,t){t.r(u),t.d(u,{default:function(){return f}});var r=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,u=n._self._c;return u("div",[u("h1",[n._v("购物车")])])}],l={data(){return{}}},i=l,s=t(1001),c=(0,s.Z)(i,r,e,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=668.07eb0a2f.js.map
